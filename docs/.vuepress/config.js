@@ -29,6 +29,17 @@ module.exports = {
                 path: '/todo/todo.md',
                 children: [
                 ]
+            },
+            {
+                title: 'daily',
+                collapsable: true,
+                children: [
+                    {
+                        title: '2023-04-27',
+                        path: '/daily/2023-04-27.md'
+                    },
+                ]
+                
             }
         ]
     }
