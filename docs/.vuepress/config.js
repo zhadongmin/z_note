@@ -2,7 +2,7 @@ module.exports = {
     title: "操作备忘录",
     desciption: "能简单查到的东西不需要记忆",
     author: "zhadongmin",
-    base: "/z_note/", 
+    // base: "/z_note/", 
     themeConfig: {
         sidebar: [
             {
